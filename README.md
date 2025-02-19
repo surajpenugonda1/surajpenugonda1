@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Suraj Penugonda
 
-Full Stack Developer with expertise in React.js, Node.js, and AWS. Passionate about building scalable applications and exploring new technologies.
+Experienced Software Engineer specializing in Java Spring Boot, AWS cloud services, and microservices architecture.
+Recognized for designing and delivering robust, scalable solutions in agile environments while ensuring secure, high-quality
+production code. Proven track record in boosting application performance through optimized CI/CD pipelines and effective
+system design. Offers strong expertise in backend development, database integration, and emerging software practices.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-penugonda/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:surajpenugonda98@gmail.com)
